@@ -6,7 +6,6 @@
 
 ## Setup Instructions
 - If you want more practice working with Git and Github, fork this project on GitHub and then clone your fork to your development box, so you have both your own local copy and a remote in GitHub where you can push your solutions.
-- Go here https://glitch.com/edit/#!/remix/ten-functions if you only want to focus on the problems and side-step the git process.
 
 ## Getting Started
 0. Setup your own copy of the code using the instructions above
@@ -17,7 +16,7 @@
 
 
 ## The "Ten Functions" Exercises 👟
-0. The comments to the right of the function call example demonstrate the output of the function's operation on the provided input(s). Add your function definitions to `solutions.js`. Refresh `results.html` to run automated tests for feedback on your solutions.
+0. The comments to the right of the function call example demonstrate the output of the function's operation on the provided input(s). Add your function definitions to `solutions.js`. Refresh `index.html` to run automated tests for feedback on your solutions.
 
 1. Define a function named `isTrue` that takes in any input and returns true if the input provided is exactly equal to `true` in value and data type.
         
@@ -124,8 +123,8 @@
         concat(true, true)                  // "truetrue"
         
 ## Files in this project
-- `index.html` is the welcome page
-- `results.html` shows the ouptut from automated test data
+- `readme.html` is the welcome page
+- `index.html` shows the ouptut from automated test data
 - `solutions.js` is where you will write your function definitions that solve the exercises below
 - `tests.js` is the suite of automated tests that call your functions in `solutions.js` with different inputs.
 
